@@ -52,6 +52,7 @@ A simple and interactive calendar application built with React.js that allows us
 ## Code Structure
 
 - **`CalendarApp.jsx`**: The main component that handles rendering the calendar, managing state, and handling user interactions.
+- **`Api.js`**: To handle Api call.
 - **`daysOfWeek` and `monthsOfYear`**: Arrays storing the names of the days and months for display.
 - **`currentDate`**: Tracks the current date to highlight today’s date.
 - **State Management**:
